@@ -30,6 +30,6 @@ For example, confusion matrix represented by:
  
  The following is the output for the confusion matrix given above:
  
- ![Output Format](/ConfusionMatrixCalculator/Assets/output.PNG)
+ ![Output Format](/ConfusionMatrixCalculator/Assets/result.PNG)
 
  
