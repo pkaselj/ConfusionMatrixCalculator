@@ -18,10 +18,10 @@ follow from left to right) represent *TRUE CLASS* of a given data unit from data
 
 For example, confusion matrix represented by:
 
-`  a   b   c   d   <--- classified as  
-349  17   1   0 |   a  
- 28  90   2   0 |   b  
-  0  11   5   1 |   c  
+`  a   b   c   d   <--- classified as\
+349  17   1   0 |   a\
+ 28  90   2   0 |   b\
+  0  11   5   1 |   c\
   0   8   0   6 |   d`
   
  Would be written (in raw *.csv* file) as follows:
