@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfusionMatrixCalculator", "ConfusionMatrixCalculator\ConfusionMatrixCalculator.csproj", "{48D59A42-F4BA-49F3-8865-4638040BE698}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48D59A42-F4BA-49F3-8865-4638040BE698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48D59A42-F4BA-49F3-8865-4638040BE698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48D59A42-F4BA-49F3-8865-4638040BE698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48D59A42-F4BA-49F3-8865-4638040BE698}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {573A393A-EFFB-40E0-854C-1DF42BB59FC0}
+	EndGlobalSection
+EndGlobal
