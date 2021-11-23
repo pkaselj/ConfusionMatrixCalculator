@@ -18,7 +18,7 @@ namespace ConfusionMatrixCalculator.Lib
 
         public IConfusionMatrix ReadConfusionMatrix()
         {
-            string[] fileLines = System.IO.File.ReadAllLines(_inputFilePath);
+            string[] fileLines = System.IO.File.ReadAllLines(_inputFilePath).Where(x => !String.IsNullOrEmpty(x)).ToArray();
 
             string[] classNames = fileLines[0].Split(_separator);
 

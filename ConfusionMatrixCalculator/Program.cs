@@ -7,7 +7,7 @@ namespace ConfusionMatrixCalculator
     {
         static void Main(string[] args)
         {
-            string filePath = @"C:\Users\KASO\Desktop\confusionMatrix_9classes.csv";
+            string filePath = @"C:\Users\KASO\Desktop\confusionMatrix.csv";
 
             Console.WriteLine($"Reading file: {filePath}");
             var confusionMatrix = new Reader(filePath).ReadConfusionMatrix();
