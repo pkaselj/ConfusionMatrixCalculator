@@ -32,6 +32,6 @@ For example, confusion matrix represented by:
  
  ![Output Format](/ConfusionMatrixCalculator/Assets/result.png)
 
-# Author
+## Author
 name: Petar Kaselj  
 e-mail: petar.kaselj.00@gmail.com
