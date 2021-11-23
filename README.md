@@ -22,7 +22,7 @@ For example, confusion matrix represented by:
   
  Would be written (in raw *.csv* file) as follows:
  
-
+![RAW Confusion Matrix](/ConfusionMatrixCalculator/Assets/rawConfusionMatrix.PNG)
  
  ## Output Format
  
@@ -30,5 +30,6 @@ For example, confusion matrix represented by:
  
  The following is the output for the confusion matrix given above:
  
+ ![Output Format](/ConfusionMatrixCalculator/Assets/output.PNG)
 
  
