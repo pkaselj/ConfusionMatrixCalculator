@@ -18,19 +18,19 @@ follow from left to right) represent *TRUE CLASS* of a given data unit from data
 
 For example, confusion matrix represented by:
 
-  a   b   c   d   <--- classified as
+`  a   b   c   d   <--- classified as
 349  17   1   0 |   a
  28  90   2   0 |   b
   0  11   5   1 |   c
-  0   8   0   6 |   d
+  0   8   0   6 |   d`
   
  Would be written (in raw *.csv* file) as follows:
  
- a,b,c,d
+` a,b,c,d
  349,17,1,0
  28,90,2,0
  0,11,5,1
- 0,8,0,6
+ 0,8,0,6`
  
  ## Output Format
  
@@ -38,7 +38,7 @@ For example, confusion matrix represented by:
  
  The following is the output for the confusion matrix given above:
  
-  === Evaluated classes ===
+`  === Evaluated classes ===
           a       b       c       d
   a       349     17      1       0
   b       28      90      2       0
@@ -53,4 +53,4 @@ For example, confusion matrix represented by:
   -------------------------------------------------
   AVG     518     86.87   82.49   86.50   86.28
   =================================================
- 
+ `
