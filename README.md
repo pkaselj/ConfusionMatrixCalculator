@@ -18,7 +18,7 @@ follow from left to right) represent *TRUE CLASS* of a given data unit from data
 
 For example, confusion matrix represented by:
 
-
+![Confusion Matrix](/ConfusionMatrixCalculator/Assets/confusionMatrix.PNG)
   
  Would be written (in raw *.csv* file) as follows:
  
